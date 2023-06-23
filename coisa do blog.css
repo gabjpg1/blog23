@@ -1,0 +1,23 @@
+div {
+    color: rgb(186, 148, 34);
+    margin-top: 5%;
+    margin-left: 30%;
+}
+
+body :root,
+::backdrop {
+    color-scheme: dark;
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
+    --text: #dcdcdc;
+    --text-light: #ababab;
+    --accent: #ffb300;
+    --code: #f06292;
+    --preformatted: #ccc;
+    --disabled: #111;
+
+}
+
+h6 {
+    color: rgb(203, 208, 213);
+}
